@@ -1,3 +1,13 @@
-### Hi there 👋
+# Luiz Henrique - 16 Anos #
+**Minha Apresentação:**
+<img align="right" alt="Mat-Pitou" src="https://user-images.githubusercontent.com/92057278/136278424-f30c8734-3398-4598-be8c-c47b2fb70a8c.gif" width='300'>
 
-<img align="right" alt="Mat-Pitou" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fyoshi-yoshi-dan%25C3%25A7ando-yoshi-dance-yoshi-dan%25C3%25A7a-dan%25C3%25A7a-gif-23093902&psig=AOvVaw3Ga0yYYXSAnNDv_VK_3Onv&ust=1633638177875000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCJC9mczOtvMCFQAAAAAdAAAAABAD" width='300'>
+Comecei com a programação graças a um amigo meu, e desde então tenho buscado evolução contínua na área.
+Estudo em uma escola técnica, o que me auxília ainda mais na programação 
+
+- Treinando HTML, CSS, PHP e JavaScript
+- Inspirações: Matheus, Arthur, Pedro
+
+
+
+**Isso é tudo pe-pessoal**
